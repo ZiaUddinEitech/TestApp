@@ -1,8 +1,8 @@
 <?php
-class Palindrome
+class Palindrome1
 {
 	 //date_default_timezone_set('US/Eastern');
-    public static function isPalindrome($word)
+    public static function isPalindrome1($word)
     {
 		$count=0;
 		$k=strlen($word)-1;
