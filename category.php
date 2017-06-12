@@ -1,5 +1,5 @@
 <?php
-require '../wp-load1.php';
+require '../wp-load.php';
 $cat=get_all_category_ids();
  $args = array( 'category' => 1,'posts_per_page' => 3, 'offset'=>1, 'post_type' =>  'post' ); 
   $postslist = get_posts( $args ); 
