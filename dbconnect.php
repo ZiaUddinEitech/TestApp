@@ -1,5 +1,5 @@
 <?php
-$hostname="localhost";
+$hostname="localhost1";
 $username="root";
 $password="";
 $database_name="shopping";
