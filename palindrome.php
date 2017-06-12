@@ -54,6 +54,8 @@ class Palindrome1
 		 
 	}
 	echo $max. "<br>";
+	echo $max. "<br>";
+	echo $max. "<br>";
 echo  date("Y-m-d", strtotime('-2 day'))."<br>";
 
 echo  date("Y-m-d", strtotime('-2 day'))."<br>";
